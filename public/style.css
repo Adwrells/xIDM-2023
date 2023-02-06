@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    background-color: rgba(0, 0, 0, 0.02);
+}
+.container{
+    position: relative;
+    height: 98vh;
+}
+.s12{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+#scroll{
+    height: 40vh; 
+    overflow-y: scroll;
+}
+.input-chat{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    align-self: center;
+    padding: 10px;
+}
