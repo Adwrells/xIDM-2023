@@ -12,3 +12,5 @@ npm i socket.io
 
 Caso for usar adicione os Direitos autorais devidos.
 2023 Copyright Vitor Gabriel e Silva
+
+<img src="https://user-images.githubusercontent.com/64503152/217058607-52990a51-cd01-48f8-b8e1-ae61af34d633.png"/>
